@@ -21,7 +21,7 @@ futures==3.0.5
 gunicorn==19.6.0
 ipaddr==2.1.11
 ipwhois==0.14.0
-lxml==3.6.4
+lxml==4.6.2
 openvas-lib==1.1.2
 postgres==2.2.1
 psycopg2==2.6.2
